@@ -113,7 +113,7 @@ Frontend: HTML5, CSS3, Bootstrap 5
 ![Главная](screenshots/main.png)
 
 ### Список постов
-![Посты](screenshots/posts.png)
+!(screenshots/posts.png)
 
 ### Форма создания поста
 ![Форма](screenshots/create.png)
