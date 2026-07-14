@@ -110,6 +110,7 @@ Frontend: HTML5, CSS3, Bootstrap 5
 ## 📸 Скриншоты работы приложения
 
 ### Главная страница
+![Главная](### Главная страница
 ![Главная](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_main.png)
 
 
