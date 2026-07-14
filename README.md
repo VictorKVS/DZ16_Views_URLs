@@ -111,9 +111,7 @@ Frontend: HTML5, CSS3, Bootstrap 5
 
 ### Главная страница
 
-![Главная](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_main.png)
-
-
+![Главная](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_admin.png)
 ### Список постов
 ![Список постов](screenshots/screenshot_posts.png)
 
