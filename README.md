@@ -110,16 +110,16 @@ Frontend: HTML5, CSS3, Bootstrap 5
 ## 📸 Скриншоты работы приложения
 
 ### Главная страница
-![Главная](https://github.com/VictorKVS/DZ16_Views_URLs/tree/main)/screenshot_main.png)
+![Главная страница](screenshots/screenshot_main.png)
 
 ### Список постов
-![Посты](screenshots/screenshot_posts.png)
+![Список постов](screenshots/screenshot_posts.png)
 
 ### Форма создания поста
-![Форма](screenshots/screenshot_create.png)
+![Форма создания](screenshots/screenshot_create.png)
 
 ### Админ-панель
-![Админка](screenshots/screenshot_admin.png)
+![Админ-панель](screenshots/screenshot_admin.png)
 
 💡 Ключевые технические решения
 1. Динамические маршруты
