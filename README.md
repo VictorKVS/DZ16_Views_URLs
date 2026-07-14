@@ -109,17 +109,21 @@ Frontend: HTML5, CSS3, Bootstrap 5
 Тестирование: Django TestCase
 ## 📸 Скриншоты работы приложения
 
+
+=======
+## 📸 Скриншоты работы приложения
+
 ### Главная страница
-![Главная страница](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshot_main.png)
+![Главная страница](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_main.png)
 
 ### Список постов
-![Список постов](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshot_posts.png)
+![Список постов](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_posts.png)
 
 ### Форма создания поста
-![Форма создания поста](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshot_create.png)
+![Форма создания поста](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_create.png)
 
 ### Админ-панель
-![Админ-панель](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshot_admin.png)
+![Админ-панель](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_admin.png)
 
 
 💡 Ключевые технические решения
