@@ -110,16 +110,16 @@ Frontend: HTML5, CSS3, Bootstrap 5
 ## 📸 Скриншоты работы приложения
 
 ### Главная страница
-![Главная](screenshots/main.png)
+![Главная](screenshots/screenshot_main.png)
 
 ### Список постов
-!(screenshots/posts.png)
+![Посты](screenshots/screenshot_posts.png)
 
 ### Форма создания поста
-![Форма](screenshots/create.png)
+![Форма](screenshots/screenshot_create.png)
 
 ### Админ-панель
-![Админка](screenshots/admin.png)
+![Админка](screenshots/screenshot_admin.png)
 
 💡 Ключевые технические решения
 1. Динамические маршруты
