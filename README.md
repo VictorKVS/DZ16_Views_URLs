@@ -107,15 +107,20 @@ Backend: Django 5.2, Python 3.10+
 Frontend: HTML5, CSS3, Bootstrap 5
 База данных: SQLite (по умолчанию)
 Тестирование: Django TestCase
-📸 Скриншоты
-Главная страница
+## 📸 Скриншоты работы приложения
 
-Список постов
+### Главная страница
+![Главная страница](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshot_main.png)
 
-Форма создания поста
+### Список постов
+![Список постов](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshot_posts.png)
 
+### Форма создания поста
+![Форма создания поста](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshot_create.png)
 
-Админ-панель
+### Админ-панель
+![Админ-панель](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshot_admin.png)
+
 
 💡 Ключевые технические решения
 1. Динамические маршруты
