@@ -109,17 +109,19 @@ Frontend: HTML5, CSS3, Bootstrap 5
 Тестирование: Django TestCase
 ## 📸 Скриншоты работы приложения
 
-### Главная страница
+## 📸 Скриншоты работы приложения
 
-![Главная](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_admin.png)
+### Главная страница
+![Главная страница](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_main.png)
+
 ### Список постов
-![Список постов](screenshots/screenshot_posts.png)
+![Список постов](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_posts.png)
 
 ### Форма создания поста
-![Форма создания](screenshots/screenshot_create.png)
+![Форма создания поста](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_create.png)
 
 ### Админ-панель
-![Админ-панель](screenshots/screenshot_admin.png)
+![Админ-панель](https://raw.githubusercontent.com/VictorKVS/DZ16_Views_URLs/main/screenshots/screenshot_admin.png)
 
 💡 Ключевые технические решения
 1. Динамические маршруты
