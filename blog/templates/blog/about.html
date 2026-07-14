@@ -1,0 +1,88 @@
+{% extends 'blog/base.html' %}
+{% block title %}О проекте{% endblock %}
+{% block content %}
+<div class="row">
+    <div class="col-lg-8 mx-auto">
+        <div class="card p-4 mb-4">
+            <h2 class="mb-3">📖 О проекте</h2>
+            <p class="lead">
+                Этот блог создан в рамках учебного задания по теме 
+                <strong>"View и URLS. Представление и маршруты"</strong> 
+                курса Python-разработчик.
+            </p>
+            <p>
+                Проект демонстрирует работу с маршрутизацией Django, 
+                представлениями на основе классов (Class-Based Views) 
+                и формами с валидацией данных.
+            </p>
+        </div>
+
+        <div class="card p-4 mb-4">
+            <h3 class="mb-3">🎯 Цели задания</h3>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">✅ Создавать простые и динамические маршруты</li>
+                <li class="list-group-item">✅ Связывать маршруты с представлениями и шаблонами</li>
+                <li class="list-group-item">✅ Работать с формами и обрабатывать данные запросов</li>
+                <li class="list-group-item">✅ Реализовывать полный CRUD (создание, чтение, обновление, удаление)</li>
+            </ul>
+        </div>
+
+        <div class="card p-4 mb-4">
+            <h3 class="mb-3">🛠️ Что реализовано</h3>
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>🔗 Маршруты (URLs)</h5>
+                    <ul>
+                        <li><code>/</code> — Главная страница</li>
+                        <li><code>/about/</code> — О нас</li>
+                        <li><code>/posts/</code> — Список постов</li>
+                        <li><code>/posts/&lt;id&gt;/</code> — Детальный просмотр</li>
+                        <li><code>/posts/create/</code> — Создание поста</li>
+                        <li><code>/posts/&lt;id&gt;/update/</code> — Редактирование</li>
+                        <li><code>/posts/&lt;id&gt;/delete/</code> — Удаление</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h5>👁️ Представления (Views)</h5>
+                    <ul>
+                        <li><code>home</code>, <code>about</code> — функции</li>
+                        <li><code>PostListView</code> — список</li>
+                        <li><code>PostDetailView</code> — детали</li>
+                        <li><code>PostCreateView</code> — создание</li>
+                        <li><code>PostUpdateView</code> — обновление</li>
+                        <li><code>PostDeleteView</code> — удаление</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="card p-4 mb-4">
+            <h3 class="mb-3">⚙️ Технологии</h3>
+            <div class="d-flex flex-wrap gap-2">
+                <span class="badge bg-primary fs-6">Python 3.10</span>
+                <span class="badge bg-success fs-6">Django 5.2</span>
+                <span class="badge bg-info fs-6">HTML5</span>
+                <span class="badge bg-warning fs-6">CSS3</span>
+                <span class="badge bg-danger fs-6">Bootstrap 5</span>
+                <span class="badge bg-secondary fs-6">SQLite</span>
+            </div>
+        </div>
+
+        <div class="card p-4 mb-4">
+            <h3 class="mb-3">🧪 Тестирование</h3>
+            <p>Проект покрыт автоматическими тестами Django <code>TestCase</code>:</p>
+            <pre class="bg-light p-3 rounded"><code>python manage.py test</code></pre>
+            <p class="text-muted mb-0">✅ 3 теста — проверка маршрутов и представлений</p>
+        </div>
+
+        <div class="card p-4">
+            <h3 class="mb-3">👤 Автор</h3>
+            <p class="mb-1"><strong>Виктор Куличенко</strong></p>
+            <p class="mb-1">Специалист по ИБ | AI Security Expert</p>
+            <p class="mb-0">
+                💼 <a href="https://github.com/VictorKVS" target="_blank">GitHub: VictorKVS</a>
+            </p>
+        </div>
+    </div>
+</div>
+{% endblock %}
